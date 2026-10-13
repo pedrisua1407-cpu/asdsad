@@ -1,0 +1,49 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    }
+    header{
+        background-color: cadetblue;
+        color: beige;
+        text-align: center;
+        padding: 40px;
+        font-size: larger;
+    }
+    nav{
+        background-color: rgb(122, 122, 122);
+        text-align: center;
+        padding: 25px;
+    }
+    nav a{
+        color: rgb(161, 235, 225);
+        text-decoration: none;
+        margin: 15px;
+    }
+    main{
+        display: flex;
+        gap: 30px;
+        padding: 15px;
+    }
+    section{
+        flex: 4;
+        background-color:rgb(83, 85, 85);
+        padding: 25px;
+    }
+    .b{
+        color: aliceblue;
+    }
+    aside{
+        flex: 2;
+        background-color: blanchedalmond;
+        padding: 20px;
+    }
+    footer{
+        background-color: darkkhaki;
+        color: aquamarine;
+        text-align: center;
+        padding: 30px;
+    }
+    .d{
+        font-size: x-large;
+    }
+
